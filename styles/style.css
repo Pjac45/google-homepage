@@ -1,0 +1,26 @@
+#google-center {
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+    
+    
+}
+
+.search {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#Google-Search {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#Im-Feeling-Lucky {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head> 
+    <title>Google</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="icon" href="images/google_favicon.png">
+    <meta charset="UTF-8">
+</head>
+<body>
+    <div>
+        <img id="google-center" src="images/goole_log.png" alt=""> 
+        <div class="search-bar">
+            <input class="search" type="text">
+        </div>
+        <button id="Google-Search">Google Search</button>
+        <button id="Im-Feeling-Lucky">I'm Feeling Lucky</button</button>
+    
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
