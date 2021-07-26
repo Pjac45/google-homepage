@@ -7,6 +7,15 @@
 </head>
 <body>
     <div>
+        <ul class="Header">
+            <li id="About">About</li>
+            <li id="Store">Store</li>
+            <li id="Gmail">Gmail</li>
+            <li id="Images">Images</li>
+            <li id="Sign-in">Sign in</li>
+         </ul>
+    </div>
+    <div>
         <img id="google-center" src="images/goole_log.png" alt=""> 
         <div class="search-bar">
             <input class="search" type="text">
