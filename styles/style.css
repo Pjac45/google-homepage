@@ -3,8 +3,6 @@
     margin-left: auto;
     margin-right: auto;
     display: block
-    
-    
 }
 
 .search {
@@ -13,14 +11,25 @@
     display: block;
 }
 
-#Google-Search {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+#Google-Search, #Im-Feeling-Lucky {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border:white;
 }
 
-#Im-Feeling-Lucky {
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
+#Google-Search:hover {
+    border: 1px solid;
+    border-radius: 10%;
+    background-color: white;
+    cursor: pointer;
+
+}
+
+#Im-Feeling-Lucky:hover {
+    border: 1px solid;
+    border-radius: 10%;
+    background-color: white;
+    cursor: pointer;
 }
