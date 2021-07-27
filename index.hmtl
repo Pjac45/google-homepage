@@ -29,7 +29,7 @@
             <li id="Advertising">Advertising</li>
             <li id="Business">Business</li>
             <li id="How-search-works">How Search works</li>
-            <li id="Carbon-neutral">Carbon neutral since 2007</li>
+            <li id="Carbon-neutral"><img id="leaf" src="images/leaf.png" alt="leaf">Carbon neutral since 2007</li>
             <li id="Privacy">Privacy</li>
             <li id="Terms">Terms</li>
             <li id="Settings">Settings</li>

@@ -146,6 +146,60 @@ li {
 }
 
 .footer {
+    position: fixed;
+    bottom: 0;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#Carbon-neutral {
+    left: 230px;
+    bottom: 10px;
     position: relative;
-    
+}
+
+#Settings {
+    left: 550px;
+    position: relative;
+    bottom: 10px;
+}
+
+#Terms {
+    left: 525px;
+    bottom: 10px;
+    position: relative;
+}
+
+#Privacy {
+    left: 500px;
+    bottom: 10px;
+    position: relative;
+}
+
+#Business {
+    left: 20px;
+    bottom: 10px;
+    position: relative;
+}
+
+#How-search-works {
+    left: 40px;
+    bottom: 10px;
+    position: relative;
+}
+
+#Advertising {
+    bottom: 10px;
+    position: relative;
+}
+
+#leaf {
+    width: 15px;
+    right: 5px;
+    position: relative;
+}
+
+.footer:hover {
+    cursor: pointer;
+    text-decoration: underline;
 }
