@@ -12,6 +12,7 @@
             <li id="Store">Store</li>
             <li id="Gmail">Gmail</li>
             <li id="Images">Images</li>
+            <li><img id="google-dots" src="images/google_dots.png alt=""></li>
             <li id="Sign-in">Sign in</li>
          </ul>
     </div>

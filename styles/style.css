@@ -1,3 +1,6 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 #google-center {
     margin-top: 300px;
     margin-left: auto;
@@ -16,10 +19,23 @@
 }
 
 #Google-Search, #Im-Feeling-Lucky {
-    display: inline;
+    display: inline-block;
     margin: 0 auto;
     background-color: white;
     border:white;
+}
+
+#Google-Search {
+    position: relative;
+    left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Im-Feeling-Lucky {
+    position: relative;
+    left: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
 }
 
 #Google-Search:hover {
@@ -27,7 +43,6 @@
     border-radius: 0%;
     background-color: white;
     cursor: pointer;
-
 }
 
 #Im-Feeling-Lucky:hover {
@@ -60,4 +75,28 @@ li {
 #Store {
     position: relative;
     right: 435px;
+}
+
+#About:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#Store:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#Gmail {
+    position: relative;
+    left: 410px;
+}
+#Sign-in {
+    position: relative;
+    left: 495px;
+}
+
+#Images {
+    position: relative;
+    left: 415px;
 }
