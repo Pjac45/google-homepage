@@ -70,11 +70,13 @@ li {
 #About {
     position: relative;
     right: 450px;
+    top: 10px;
 }
 
 #Store {
     position: relative;
     right: 435px;
+    top: 10px;
 }
 
 #About:hover {
@@ -90,13 +92,60 @@ li {
 #Gmail {
     position: relative;
     left: 410px;
+    top: 10px;
 }
 #Sign-in {
     position: relative;
-    left: 495px;
+    left: 450px;
+    top: 10px;
+    border-radius: 10%;
 }
 
 #Images {
     position: relative;
     left: 415px;
+    top: 10px;
+}
+
+#google-dots {
+    width: 35px;
+    height: auto;
+    position: relative;
+    left: 430px;
+    top: 10px;
+
+}
+
+#button-two {
+    background-color: #1a73e8;
+    width: 90px;
+    height: 30px;
+    font-size: 13px;
+    color: white;
+    border-radius: 4px;
+}
+
+#Gmail:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#button-two:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#Images:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#google-dots:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer {
+    position: relative;
+    
 }

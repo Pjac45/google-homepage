@@ -6,24 +6,34 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <div>
+    <div class="top-of-page">
         <ul class="Header">
             <li id="About">About</li>
             <li id="Store">Store</li>
             <li id="Gmail">Gmail</li>
             <li id="Images">Images</li>
-            <li><img id="google-dots" src="images/google_dots.png alt=""></li>
-            <li id="Sign-in">Sign in</li>
+            <li><img id="google-dots" src="images/google_dots.png" alt=""></li>
+            <li id="Sign-in"><button id="button-two">Sign in</button></li>
          </ul>
     </div>
-    <div>
+    <div class="centered-data">
         <img id="google-center" src="images/goole_log.png" alt=""> 
         <div class="search-bar">
             <input class="search" type="text">
         </div>
         <button class="Search-Button" id="Google-Search">Google Search</button>
         <button class="Search-Button" id="Im-Feeling-Lucky">I'm Feeling Lucky</button>
-    
+    </div>
+    <div class="bottom-of-page">
+        <ul class="footer">
+            <li id="Advertising">Advertising</li>
+            <li id="Business">Business</li>
+            <li id="How-search-works">How Search works</li>
+            <li id="Carbon-neutral">Carbon neutral since 2007</li>
+            <li id="Privacy">Privacy</li>
+            <li id="Terms">Terms</li>
+            <li id="Settings">Settings</li>
+         </ul>
     </div>
 
 
